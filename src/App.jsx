@@ -8,7 +8,6 @@ export default function App() {
     <div>
       <Menu />
       <RouterProvider router={router} />
-      <div className="page"></div>
     </div>
   );
 }
